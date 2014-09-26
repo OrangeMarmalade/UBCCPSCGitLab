@@ -60,7 +60,7 @@ public class GitLab implements EntryPoint {
 		
 		flexTable.setText(0,0, "Name");
 		
-		flexTable.addCell(3);
+		flexTable.addCell(4);
 		
 		for(int i=0; i < users.size(); i++)
 		{
