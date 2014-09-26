@@ -58,7 +58,7 @@ public class GitLab implements EntryPoint {
 
 		RootPanel.get("root").add(flexTable);
 		
-		flexTable.setText(0,0, "Name");
+		flexTable.setText(0,0, "pisssssssssssssssss club"");
 		
 		flexTable.clear();
 		
