@@ -35,7 +35,7 @@ public class GitLab implements EntryPoint {
 	 * returns an error.
 	 */
 	private static final String SERVER_ERROR = "An error occurred while "
-			+ "attempting to make some apple juice "
+			+ "attempting to make some apple juice BY THE GALLEONS"
 			+ "GEAROUGNWRNGWOGNWOGNWROGNRWOGNWOGNLOGKFCKMDKFMEKL.";
 
 	private final FlexTable flexTable = new FlexTable();
@@ -58,7 +58,7 @@ public class GitLab implements EntryPoint {
 
 		RootPanel.get("root").add(flexTable);
 		
-		flexTable.setText(0,0, "pisssssssssssssssss club"");
+		flexTable.setText(4,0, "pisssssssssssssssss club"");
 		
 		flexTable.clear();
 		
